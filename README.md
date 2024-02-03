@@ -6,6 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AnimateLCM-jupyter/blob/main/AnimateLCM_gradio_jupyter.ipynb) | AnimateLCM_gradio_jupyter
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AnimateLCM-jupyter/blob/main/AnimateLCM_jupyter.ipynb) | AnimateLCM_jupyter
 
 ### 🧬 Code
