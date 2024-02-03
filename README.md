@@ -21,4 +21,4 @@ https://animatelcm.github.io/
 
 
 ### 🏢 Sponsor
-https://replicate.com
+http://modelslab.com
