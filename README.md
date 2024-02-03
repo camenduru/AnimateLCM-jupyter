@@ -19,6 +19,7 @@ https://animatelcm.github.io/
 
 ### 🖼 Output
 
+https://github.com/camenduru/AnimateLCM-jupyter/assets/54370274/c1100da8-7fa4-42e2-bc7e-2eb53d3f35b7
 
 ### 🏢 Sponsor
 http://modelslab.com
